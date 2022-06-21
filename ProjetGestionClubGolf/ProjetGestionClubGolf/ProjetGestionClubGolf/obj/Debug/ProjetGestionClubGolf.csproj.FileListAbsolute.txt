@@ -1,0 +1,188 @@
+F:\Projets finaux\BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\WINFORM\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.exe.config
+F:\Projets finaux\BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\WINFORM\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.exe
+F:\Projets finaux\BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\WINFORM\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.pdb
+F:\Projets finaux\BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\WINFORM\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.AssemblyReference.cache
+F:\Projets finaux\BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\WINFORM\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.SuggestedBindingRedirects.cache
+F:\Projets finaux\BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\WINFORM\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.AjoutEmp.resources
+F:\Projets finaux\BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\WINFORM\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.GestionEmp.resources
+F:\Projets finaux\BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\WINFORM\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Login.resources
+F:\Projets finaux\BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\WINFORM\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Properties.Resources.resources
+F:\Projets finaux\BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\WINFORM\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.GenerateResource.cache
+F:\Projets finaux\BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\WINFORM\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.CoreCompileInputs.cache
+F:\Projets finaux\BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\WINFORM\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.exe
+F:\Projets finaux\BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\WINFORM\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.pdb
+F:\Projets finaux\BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\WINFORM\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Menu.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.AssemblyReference.cache
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.AjoutEmp.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.GestionEmp.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Login.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Properties.Resources.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.GenerateResource.cache
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.CoreCompileInputs.cache
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.exe
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.pdb
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.exe.config
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.exe
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.pdb
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuAdministrateur.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.PartieGolfJouer.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Rapports.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Statistiques.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.AjoutDepense.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.ChoixTypeAjoutAbonnement.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnement1Enfant.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnement2Enfant.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnement3Enfant.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnementCouple.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnementSeulOuAgeOr.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.GestionAbonnements.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FrmReabonnements.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.GestionPrixDepensesObligatoires.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.ModifEmp.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MiseAjourAbonnees.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Reabonnement.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.test.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.exe.config
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.exe
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.pdb
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.AssemblyReference.cache
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.AjoutDepense.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.AjoutEmp.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.ChoixTypeAjoutAbonnement.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnement1Enfant.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnement2Enfant.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnement3Enfant.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnementCouple.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnementSeulOuAgeOr.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.GestionAbonnements.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FrmReabonnements.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.GestionEmp.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.GestionPrixDepensesObligatoires.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Login.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuAdministrateur.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.ModifEmp.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MiseAjourAbonnees.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.PartieGolfJouer.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Properties.Resources.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Rapports.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Statistiques.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Reabonnement.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.test.resources
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.GenerateResource.cache
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.CoreCompileInputs.cache
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.exe
+D:\aut21\basededonner3\ProjetFinalBD3\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.pdb
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuEmployerProShop.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuEmployerRestaurant.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuDirections.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuEmployerClub.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuProfGolf.resources
+C:\Users\Sami Medelci\Pictures\ProjetFinalBD\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuProprietaireClub.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.exe.config
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.exe
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.pdb
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.AssemblyReference.cache
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.SuggestedBindingRedirects.cache
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.AjoutDepense.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.AjoutEmp.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.ChoixTypeAjoutAbonnement.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuEmployerProShop.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuEmployerRestaurant.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnement1Enfant.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnement2Enfant.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnement3Enfant.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnementCouple.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnementSeulOuAgeOr.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.GestionAbonnements.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FrmReabonnements.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.GestionEmp.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.GestionPrixDepensesObligatoires.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Login.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuAdministrateur.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuDirections.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuEmployerClub.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuProfGolf.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuProprietaireClub.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.ModifEmp.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MiseAjourAbonnees.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.PartieGolfJouer.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Properties.Resources.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Rapports.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Statistiques.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Reabonnement.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.test.resources
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.GenerateResource.cache
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.CoreCompileInputs.cache
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.exe
+F:\Vieux projet 2 BD\Projet%202%20BD3%20Gestion%20de%20clubs%20de%20golf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.pdb
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.exe.config
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.exe
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.pdb
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.AssemblyReference.cache
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.AjoutDepense.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.AjoutEmp.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.ChoixTypeAjoutAbonnement.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuEmployerProShop.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuEmployerRestaurant.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnement1Enfant.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnement2Enfant.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnement3Enfant.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnementCouple.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnementSeulOuAgeOr.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.GestionAbonnements.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FrmReabonnements.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.GestionEmp.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.GestionPrixDepensesObligatoires.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Login.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuAdministrateur.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuDirections.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuEmployerClub.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuProfGolf.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuProprietaireClub.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.ModifEmp.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MiseAjourAbonnees.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.PartieGolfJouer.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Properties.Resources.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Rapports.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Statistiques.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Reabonnement.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.test.resources
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.GenerateResource.cache
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.CoreCompileInputs.cache
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.exe
+E:\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.pdb
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.AssemblyReference.cache
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.AjoutDepense.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.AjoutEmp.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.ChoixTypeAjoutAbonnement.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuEmployerProShop.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuEmployerRestaurant.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnement1Enfant.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnement2Enfant.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnement3Enfant.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnementCouple.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FormsAjoutAbonnement.AjoutAbonnementSeulOuAgeOr.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.GestionAbonnements.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.FrmReabonnements.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.GestionEmp.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.GestionPrixDepensesObligatoires.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Login.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuAdministrateur.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuDirections.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuEmployerClub.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuProfGolf.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MenuProprietaireClub.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.ModifEmp.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.MiseAjourAbonnees.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.PartieGolfJouer.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Properties.Resources.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Rapports.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.Reabonnement.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.test.resources
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.GenerateResource.cache
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.csproj.CoreCompileInputs.cache
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.exe
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\obj\Debug\ProjetGestionClubGolf.pdb
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.exe.config
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.exe
+E:\Pour le moment\Document-examen-final-BD3\ProjetGestionClubGolf\ProjetGestionClubGolf\ProjetGestionClubGolf\bin\Debug\ProjetGestionClubGolf.pdb

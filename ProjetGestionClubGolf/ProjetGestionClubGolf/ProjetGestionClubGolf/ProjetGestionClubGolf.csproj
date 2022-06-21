@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C664174A-D2F0-4BA4-ADDD-08B9D9755B19}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProjetGestionClubGolf</RootNamespace>
+    <AssemblyName>ProjetGestionClubGolf</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AjoutDepense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjoutDepense.Designer.cs">
+      <DependentUpon>AjoutDepense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjoutEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjoutEmp.Designer.cs">
+      <DependentUpon>AjoutEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BDB56Projet22DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BDB56Projet22DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ChoixTypeAjoutAbonnement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChoixTypeAjoutAbonnement.Designer.cs">
+      <DependentUpon>ChoixTypeAjoutAbonnement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuEmployerProShop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuEmployerProShop.Designer.cs">
+      <DependentUpon>MenuEmployerProShop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuEmployerRestaurant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuEmployerRestaurant.Designer.cs">
+      <DependentUpon>MenuEmployerRestaurant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAjoutAbonnement\AjoutAbonnement1Enfant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAjoutAbonnement\AjoutAbonnement1Enfant.Designer.cs">
+      <DependentUpon>AjoutAbonnement1Enfant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAjoutAbonnement\AjoutAbonnement2Enfant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAjoutAbonnement\AjoutAbonnement2Enfant.Designer.cs">
+      <DependentUpon>AjoutAbonnement2Enfant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAjoutAbonnement\AjoutAbonnement3Enfant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAjoutAbonnement\AjoutAbonnement3Enfant.Designer.cs">
+      <DependentUpon>AjoutAbonnement3Enfant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAjoutAbonnement\AjoutAbonnementCouple.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAjoutAbonnement\AjoutAbonnementCouple.Designer.cs">
+      <DependentUpon>AjoutAbonnementCouple.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAjoutAbonnement\AjoutAbonnementSeulOuAgeOr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAjoutAbonnement\AjoutAbonnementSeulOuAgeOr.Designer.cs">
+      <DependentUpon>AjoutAbonnementSeulOuAgeOr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionAbonnements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionAbonnements.Designer.cs">
+      <DependentUpon>GestionAbonnements.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReabonnements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReabonnements.Designer.cs">
+      <DependentUpon>FrmReabonnements.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionEmp.Designer.cs">
+      <DependentUpon>GestionEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionPrixDepensesObligatoires.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionPrixDepensesObligatoires.Designer.cs">
+      <DependentUpon>GestionPrixDepensesObligatoires.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrateur.Designer.cs">
+      <DependentUpon>MenuAdministrateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuDirections.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuDirections.Designer.cs">
+      <DependentUpon>MenuDirections.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuEmployerClub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuEmployerClub.Designer.cs">
+      <DependentUpon>MenuEmployerClub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuProfGolf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuProfGolf.Designer.cs">
+      <DependentUpon>MenuProfGolf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuProprietaireClub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuProprietaireClub.Designer.cs">
+      <DependentUpon>MenuProprietaireClub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiseAjourAbonnees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiseAjourAbonnees.Designer.cs">
+      <DependentUpon>MiseAjourAbonnees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="monDataContext.cs">
+      <DependentUpon>monDataContext.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="ModifEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifEmp.Designer.cs">
+      <DependentUpon>ModifEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="monDataContext.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>monDataContext.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="PartieGolfJouer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PartieGolfJouer.Designer.cs">
+      <DependentUpon>PartieGolfJouer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rapports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rapports.Designer.cs">
+      <DependentUpon>Rapports.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AjoutDepense.resx">
+      <DependentUpon>AjoutDepense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjoutEmp.resx">
+      <DependentUpon>AjoutEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChoixTypeAjoutAbonnement.resx">
+      <DependentUpon>ChoixTypeAjoutAbonnement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuEmployerProShop.resx">
+      <DependentUpon>MenuEmployerProShop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuEmployerRestaurant.resx">
+      <DependentUpon>MenuEmployerRestaurant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAjoutAbonnement\AjoutAbonnement1Enfant.resx">
+      <DependentUpon>AjoutAbonnement1Enfant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAjoutAbonnement\AjoutAbonnement2Enfant.resx">
+      <DependentUpon>AjoutAbonnement2Enfant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAjoutAbonnement\AjoutAbonnement3Enfant.resx">
+      <DependentUpon>AjoutAbonnement3Enfant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAjoutAbonnement\AjoutAbonnementCouple.resx">
+      <DependentUpon>AjoutAbonnementCouple.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAjoutAbonnement\AjoutAbonnementSeulOuAgeOr.resx">
+      <DependentUpon>AjoutAbonnementSeulOuAgeOr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionAbonnements.resx">
+      <DependentUpon>GestionAbonnements.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReabonnements.resx">
+      <DependentUpon>FrmReabonnements.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionEmp.resx">
+      <DependentUpon>GestionEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionPrixDepensesObligatoires.resx">
+      <DependentUpon>GestionPrixDepensesObligatoires.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrateur.resx">
+      <DependentUpon>MenuAdministrateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuDirections.resx">
+      <DependentUpon>MenuDirections.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuEmployerClub.resx">
+      <DependentUpon>MenuEmployerClub.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuProfGolf.resx">
+      <DependentUpon>MenuProfGolf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuProprietaireClub.resx">
+      <DependentUpon>MenuProprietaireClub.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifEmp.resx">
+      <DependentUpon>ModifEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiseAjourAbonnees.resx">
+      <DependentUpon>MiseAjourAbonnees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PartieGolfJouer.resx">
+      <DependentUpon>PartieGolfJouer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Rapports.resx">
+      <DependentUpon>Rapports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reabonnement.resx" />
+    <EmbeddedResource Include="test.resx" />
+    <None Include="BDB56Projet22DataSet.xsc">
+      <DependentUpon>BDB56Projet22DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BDB56Projet22DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BDB56Projet22DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BDB56Projet22DataSet.xss">
+      <DependentUpon>BDB56Projet22DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bin\Debug\ProjetGestionClubGolf.exe.config" />
+    <None Include="monDataContext.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>monDataContext.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="monDataContext.dbml.layout">
+      <DependentUpon>monDataContext.dbml</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\Abonnement.datasource" />
+    <None Include="Properties\DataSources\PartiesJouee.datasource" />
+    <None Include="Properties\DataSources\Abonnement.datasource" />
+    <None Include="Properties\DataSources\Dependant.datasource" />
+    <None Include="Properties\DataSources\ModificationPrixDepenses.datasource" />
+    <None Include="Properties\DataSources\PrixDepensesAbonnement.datasource" />
+    <None Include="Properties\DataSources\testTable.datasource" />
+    <None Include="Properties\DataSources\TypesAbonnement.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\ProjetGestionClubGolf.exe" />
+    <Content Include="bin\Debug\ProjetGestionClubGolf.pdb" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

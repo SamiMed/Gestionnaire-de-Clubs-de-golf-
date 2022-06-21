@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProjetGestionClubGolf.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BDW56A21_424pConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=tcp:424sql.cgodin.qc.ca,5433;Initial Catalog=BDW56A21_424p;User ID=W56A21equipe424p;Password=Secret36512&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=tcp:424sql.cgodin.qc.ca,5433;Initial Catalog=BDW56A21_424p;User ID=W56A21equipe424p;Password=Secret36512</Value>
+    </Setting>
+    <Setting Name="BDB56Projet22ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=tcp:424sql.cgodin.qc.ca,5433;Initial Catalog=BDB56Projet22;User ID=B56Projet22;Password=Projet2&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=tcp:424sql.cgodin.qc.ca,5433;Initial Catalog=BDB56Projet22;User ID=B56Projet22;Password=Projet2</Value>
+    </Setting>
+    <Setting Name="BDB56Projet22ConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=tcp:424sql.cgodin.qc.ca,5433;Initial Catalog=BDB56Projet22;Persist Security Info=True;User ID=B56Projet22;Password=Projet2&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=tcp:424sql.cgodin.qc.ca,5433;Initial Catalog=BDB56Projet22;Persist Security Info=True;User ID=B56Projet22;Password=Projet2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
