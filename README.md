@@ -47,3 +47,19 @@ Les propriétaires veulent aussi que le système puisse gérer les employés. Il
 
 
 Les propriétaires veulent aussi que le système puisse inscrire les parties jouées par les abonnés sur des terrains déjà déterminés. Les propriétaires veulent aussi avoir un certain nombre de rapports et de statistiques qui sont à déterminer.
+
+
+Note : Tous les champs sont non nuls sauf les remarques et les cellulaires.
+
+
+![image](https://user-images.githubusercontent.com/48655888/174703187-f3384b42-9fcf-49c2-bad8-e1aca8c9ce54.png)
+
+
+
+
+
+
+
+
+
+
