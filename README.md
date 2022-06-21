@@ -1,0 +1,2 @@
+# Gestionnaire-de-Clubs-de-golf-
+Un groupe d’entrepreneurs ont fondé six nouveaux petits terrains de golf, dans six municipalités voisines.  Pour attirer davantage de clientèle, on voudrait offrir des abonnements annuels.  On vous demande d’informatiser cette nouvelle façon de faire.    Le tableau suivant vous indique les types d’abonnement qui seront disponibles et les prix ainsi que le montant des dépenses obligatoires pour l’année 2020.
